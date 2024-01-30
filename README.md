@@ -8,7 +8,7 @@ La aplicación **GanaderíaPlus** está diseñada para proporcionar a los ganade
 
 1. **Seguimiento de Animales:**
    
-La aplicación permite a los ganaderos llevar un registro  detallado de cada animal, incluyendo características específicas y un historial completo de movimientos.
+	La aplicación permite a los ganaderos llevar un registro  detallado de cada animal, incluyendo características específicas y un historial completo de movimientos.
 
 2. **Registro de Movimientos:**
 
@@ -18,7 +18,8 @@ La aplicación permite a los ganaderos llevar un registro  detallado de cada ani
 	 Permite la venta de animales para vida o a mataderos, proporcionando herramientas para gestionar y realizar un seguimiento de estas transacciones.
 
 4. **Módulo de Ganadero:**
-Incluye un módulo personalizado para que los ganaderos gestionen su información personal y de contacto, facilitando la comunicación y la administración de la cuenta.
+   
+	Incluye un módulo personalizado para que los ganaderos gestionen su información personal y de contacto, facilitando la comunicación y la administración de la cuenta.
 
 **Tecnologías y Plataformas:** La aplicación se desarrolla utilizando phpmyadmin ,AndroidStudio para su uso en dispositivos móviles.
 
