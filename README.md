@@ -18,7 +18,8 @@ La aplicación **GanaderíaPlus** está diseñada para proporcionar a los ganade
 4. **Módulo de Ganadero:**
 	Incluye un módulo personalizado para que los ganaderos gestionen su información personal y de contacto, facilitando la comunicación y la administración de la cuenta.
 
-5. **Tecnologías y Plataformas:** 
+5. **Tecnologías y Plataformas:**
+   
 	La aplicación se desarrolla utilizando phpmyadmin ,AndroidStudio para su uso en dispositivos móviles.
 
 
