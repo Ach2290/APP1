@@ -4,18 +4,20 @@ La aplicación **GanaderíaPlus** está diseñada para proporcionar a los ganade
 
 # Funcionalidades Clave de la APP
 
-
-
 1. **Seguimiento de Animales:**
+   
 	La aplicación permite a los ganaderos llevar un registro  detallado de cada animal, incluyendo características específicas y un historial completo de movimientos.
 
 2. **Registro de Movimientos:**
+   
 	 Facilita el seguimiento de movimientos de animales dentro y fuera de la explotación, garantizando un control exhaustivo y cumplimiento de normativas.
 
 3. **Gestión de Ventas:**
+   
 	 Permite la venta de animales para vida o a mataderos, proporcionando herramientas para gestionar y realizar un seguimiento de estas transacciones.
 
 4. **Módulo de Ganadero:**
+   
 	Incluye un módulo personalizado para que los ganaderos gestionen su información personal y de contacto, facilitando la comunicación y la administración de la cuenta.
 
 5. **Tecnologías y Plataformas:**
@@ -24,6 +26,7 @@ La aplicación **GanaderíaPlus** está diseñada para proporcionar a los ganade
 
 
 # A quien va dirigida nuestra App
+
 Nuestra aplicación está dirigida específicamente a los ganaderos, es decir, a aquellas personas que se dedican a la cría y cuidado de animales en una explotación ganadera. La razón principal de su desarrollo es facilitar y mejorar la gestión de las operaciones diarias de los ganaderos, ofreciendo herramientas especializadas que aborden las necesidades específicas de este sector. Aquí hay algunas razones clave por las que la aplicación está dirigida a los ganaderos:
 
 1.  **Gestión Eficiente del Ganado:**
