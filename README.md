@@ -7,6 +7,7 @@ La aplicación **GanaderíaPlus** está diseñada para proporcionar a los ganade
 
 
 1. **Seguimiento de Animales:**
+   
 La aplicación permite a los ganaderos llevar un registro  detallado de cada animal, incluyendo características específicas y un historial completo de movimientos.
 
 2. **Registro de Movimientos:**
